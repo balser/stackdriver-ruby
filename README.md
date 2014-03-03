@@ -54,10 +54,21 @@ Stackdriver.annotation_event('That just happened!', options)
 # => true
 ```
 
+## examples
+
+  * [Using with delayed jobs.](https://github.com/balser/stackdriver-ruby/wiki/Example-using-with-delayed-jobs)
+
 ## tk
 
   * configureables (logger, agent, etc)
   * tests
+
+## thank you
+
+The code structure an conventions are heavily influenced by the following gems:
+  * [octokit]
+  * [twitter]
+  * [instagram-ruby-gem]
 
 ## contributing
 
@@ -67,10 +78,11 @@ Stackdriver.annotation_event('That just happened!', options)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
-
-
 [stackdriver]: http://www.stackdriver.com/
 [custom metric]: http://feedback.stackdriver.com/knowledgebase/articles/181488-sending-custom-application-metrics-to-the-stackdri
 [deploy event]: http://feedback.stackdriver.com/knowledgebase/articles/212917-sending-code-deploy-events-to-stackdriver
 [annotation event]: http://feedback.stackdriver.com/knowledgebase/articles/260455-sending-annotation-events-to-stackdriver
+
+[octokit]: https://github.com/octokit/octokit.rb
+[instagram-ruby-gem]: https://github.com/Instagram/instagram-ruby-gem
+[twitter]: https://github.com/sferik/twitter
