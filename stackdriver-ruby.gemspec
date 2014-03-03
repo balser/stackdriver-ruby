@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Brian Balser']
   spec.email         = ['balser.brian@gmail.com']
   spec.summary       = %q{A ruby client for Stackdriver metrics.}
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/balser/stackdriver-ruby'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
