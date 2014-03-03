@@ -1,5 +1,7 @@
 # stackdriver-ruby
 
+[![Code Climate](https://codeclimate.com/github/balser/stackdriver-ruby.png)](https://codeclimate.com/github/balser/stackdriver-ruby)
+
 A simple ruby toolkit for reporting metrics and events to [Stackdriver] endpoints.
 
 ## installation
