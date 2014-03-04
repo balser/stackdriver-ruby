@@ -8,7 +8,7 @@ A simple ruby toolkit for reporting metrics and events to [Stackdriver] endpoint
 
 Add this line to your application's Gemfile:
 
-    gem 'stackdriver-ruby'
+    gem 'stackdriver-ruby', require: 'stackdriver'
 
 And then execute:
 
