@@ -1,6 +1,7 @@
 # stackdriver-ruby
 
 [![Code Climate](https://codeclimate.com/github/balser/stackdriver-ruby.png)](https://codeclimate.com/github/balser/stackdriver-ruby)
+[![Build Status](https://drone.io/github.com/balser/stackdriver-ruby/status.png)](https://drone.io/github.com/balser/stackdriver-ruby/latest)
 
 A simple ruby toolkit for reporting metrics and events to [Stackdriver] endpoints.
 
